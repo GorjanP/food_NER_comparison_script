@@ -1,1 +1,1 @@
-# food_NER_comparison_script
+Data analysis script for comapring different food NER methods.
